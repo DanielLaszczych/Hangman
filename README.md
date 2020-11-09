@@ -1,5 +1,6 @@
 # Hangman
 A hangman game created using JavaFX
+This program was developed around Fall 2019
 
 ## Features
 
